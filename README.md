@@ -3,8 +3,10 @@ This is a script to fetch the Japanese translation mod files of Kingdom Come: De
 KCD 有志翻訳 mod の翻訳ファイルを取得するスクリプトです. 従来のものは実質  Windows でしか使えませんでしたが Linux 系でも翻訳ファイルを取得できるようにしました.
 
 # 要件 (Requirements)
-* KCD本体 (steam版)
+* KCD本体 (steam版, Epic Games版)
 * Python 3.x (3.7 <= recommended)
+
+私は試してないですがこのサイトによるとEpic Games版でもできるとのこと https://automaton-media.com/articles/newsjp/20200214-113773/
 
 `python3` で呼び出せるようにパスが通っている状態にしてください.
 現時点では Python 組み込みのモジュールしか使っていないので多分 Python をインストールするだけでいけるはず
