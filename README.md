@@ -4,7 +4,7 @@ KCD 有志翻訳 mod の翻訳ファイルを取得するスクリプトです. 
 
 # 要件 (Requirements)
 * KCD本体 (steam版, Epic Games版)
-* Python 3.x (3.7 <= recommended)
+* Python 3.x (>= 3.7 recommended)
 
 私は試してないですがこのサイトによるとEpic Games版でもできるとのこと https://automaton-media.com/articles/newsjp/20200214-113773/
 
